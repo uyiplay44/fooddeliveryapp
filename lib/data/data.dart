@@ -1,0 +1,215 @@
+class CartItem {
+  final String id;
+  final String name;
+  final double price;
+  final int quantity;
+  final String image;
+
+  CartItem({
+    required this.id,
+    required this.name,
+    required this.price,
+    required this.quantity,
+    required this.image,
+  });
+}
+
+// Cart array data
+final List<CartItem> cartItems = [
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '3',
+    name: 'Smart Watch',
+    price: 150.0,
+    quantity: 1,
+    image: 'lib/images/photo3.jpg',
+  ),
+  CartItem(
+    id: '2',
+    name: 'Bluetooth Speaker',
+    price: 85.0,
+    quantity: 2,
+    image: 'lib/images/photo4.jpg',
+  ),
+  CartItem(
+    id: '3',
+    name: 'Smart Watch',
+    price: 150.0,
+    quantity: 1,
+    image: 'lib/images/photo3.jpg',
+  ),
+  CartItem(
+    id: '4',
+    name: 'Wireless Mouse',
+    price: 40.0,
+    quantity: 1,
+    image: 'lib/images/photo2.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '5',
+    name: 'Gaming Keyboard',
+    price: 95.0,
+    quantity: 1,
+    image: 'lib/images/photo1.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+  CartItem(
+    id: '1',
+    name: 'Wireless Headphones',
+    price: 120.0,
+    quantity: 1,
+    image: 'lib/images/photo5.jpg',
+  ),
+];
